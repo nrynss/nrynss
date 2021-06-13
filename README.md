@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Narayan SS
-- 👀 I’m a technical writer, currently working in JFrog.
-- 🌱 I’m currently learning DevOps and IT infrastructure in general.
+- 👋 I am Narayan SS
+- 👀 I am a technical writer, currently working in JFrog.
+- 🌱 I am currently learning DevOps and IT infrastructure in general.
 
 <!---
 nrynss/nrynss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
