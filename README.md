@@ -1,4 +1,4 @@
-- 👋 I am Narayan SS
+👋 I am Narayan SS
 
 <!---
 nrynss/nrynss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
